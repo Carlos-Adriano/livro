@@ -33,3 +33,10 @@ a {
     padding: 10px 30px;
     border-radius: 25px;
 }
+.menu-topo{
+    border-top-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    background-color: #d5d5d5;
+    padding-right: 15px;
+    padding-left: 13px;
+}
